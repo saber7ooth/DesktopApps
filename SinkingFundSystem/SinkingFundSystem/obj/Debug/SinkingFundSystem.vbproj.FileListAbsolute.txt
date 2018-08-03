@@ -1,0 +1,15 @@
+J:\Desktop App\SinkingFundSystem\SinkingFundSystem\bin\Debug\SinkingFundSystem.exe.config
+J:\Desktop App\SinkingFundSystem\SinkingFundSystem\bin\Debug\SinkingFundSystem.exe
+J:\Desktop App\SinkingFundSystem\SinkingFundSystem\bin\Debug\SinkingFundSystem.pdb
+J:\Desktop App\SinkingFundSystem\SinkingFundSystem\bin\Debug\SinkingFundSystem.xml
+J:\Desktop App\SinkingFundSystem\SinkingFundSystem\obj\Debug\SinkingFundSystem.Form1.resources
+J:\Desktop App\SinkingFundSystem\SinkingFundSystem\obj\Debug\SinkingFundSystem.Resources.resources
+J:\Desktop App\SinkingFundSystem\SinkingFundSystem\obj\Debug\SinkingFundSystem.vbproj.GenerateResource.Cache
+J:\Desktop App\SinkingFundSystem\SinkingFundSystem\obj\Debug\SinkingFundSystem.exe
+J:\Desktop App\SinkingFundSystem\SinkingFundSystem\obj\Debug\SinkingFundSystem.xml
+J:\Desktop App\SinkingFundSystem\SinkingFundSystem\obj\Debug\SinkingFundSystem.pdb
+J:\Desktop App\SinkingFundSystem\SinkingFundSystem\bin\Debug\Sinkingfund.accdb
+F:\Desktop App\SinkingFundSystem\SinkingFundSystem\bin\Debug\SinkingFundSystem.exe.config
+F:\Desktop App\SinkingFundSystem\SinkingFundSystem\obj\Debug\SinkingFundSystem.exe
+F:\Desktop App\SinkingFundSystem\SinkingFundSystem\obj\Debug\SinkingFundSystem.xml
+F:\Desktop App\SinkingFundSystem\SinkingFundSystem\obj\Debug\SinkingFundSystem.pdb
